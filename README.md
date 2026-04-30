@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adminhosters/Uncensored-80B-Coding-LLM-AI-for-Scripts-Debug-API/main/banner.png" width="100%" />
-</p>
-
 ---
 
 🚀 Uncensored AI — 80B Uncensored Coding LLM
