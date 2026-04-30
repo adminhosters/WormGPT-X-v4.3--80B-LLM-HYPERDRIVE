@@ -94,7 +94,7 @@ Test **WormGPT X’s raw power** before committing.
 ## **📩 Contact (Secure & Discreet)**
 For **access, inquiries, or trial requests**:
 
-🔹 **Telegram:** [@WormGPT_X](https://t.me/TheUnknowngods)
+🔹 **Telegram:** [WormGPT_X_Official](https://t.me/WormGPT_X_Official)
 🔹 **Session (Encrypted):** `05a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6`
 
 ⚠️ **We will never DM you first – Only respond to direct inquiries.**
